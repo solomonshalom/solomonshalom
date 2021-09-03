@@ -44,3 +44,10 @@
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
   />
 </div>
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/16328092/solomon-shalom-lijo">
+    <img
+      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    />
