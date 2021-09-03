@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, Solomon here!</h1>
 
 <h3 align="center">Web Developer and Game Developer</h3>
-<h4 align="center"><i>Praise be to the Lord my Rock,
-    who trains my hands for war,
- my fingers for battle. <span style="font-size:0.5em;">Psalm 144:1</span></i></h4>
+<h4 align="center"><i>God is Good<span style="font-size:0.5em;">Psalm 144:1</span></i></h4>
 <p align="center">
 </p>
 
