@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, Solomon here!</h1>
 
 <h3 align="center">Web Developer and Game Developer</h3>
-<h4 align="center"><i>God is Good<span style="font-size:0.5em;"></span></i></h4>
+<h4 align="center"><i>God is Good, All The Time<span style="font-size:0.5em;"></span></i></h4>
 <p align="center">
 </p>
 
 <h3 align="left">My tech wall</h3>
 <div style="display: flex">
-<img
-    src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-  />
  <img
     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
   />
