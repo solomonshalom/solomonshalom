@@ -64,6 +64,9 @@
  <img
       src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
   />
+ <img
+      src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+  />
   <img
     src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"
   />
