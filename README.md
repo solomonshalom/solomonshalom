@@ -48,7 +48,6 @@
     <img
       src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
     />
-   <p align="left">
   <a href="https://discord.gg/rmSKa2YBKZ">
     <img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
