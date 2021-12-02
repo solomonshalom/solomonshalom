@@ -52,4 +52,8 @@
     <img
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
     />
+   <a href="https://www.reddit.com/user/Solomon_Lijo">
+    <img 
+       src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
+    />
 
