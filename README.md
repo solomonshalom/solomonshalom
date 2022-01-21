@@ -7,9 +7,6 @@
 
 <h3 align="left">My tech wall</h3>
 <div style="display: flex">
- <img
-    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
-  />
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   />
