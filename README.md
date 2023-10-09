@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 
-<h3 align="left">My tech wall</h3>
+<h3 align="left">Just a wall w/ a tad bit of a stack</h3>
 <div style="display: flex">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -77,7 +77,7 @@
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
   />
 </div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Don't be shy <3</h3>
 
 <p align="left">
   <a href="https://stackoverflow.com/users/16328092/solomon-shalom-lijo">
