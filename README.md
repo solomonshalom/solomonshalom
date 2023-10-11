@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, Solomon here!</h1>
-<img src="https://www.holopin.io/api/user/board?user=solomonshalom" />
-<h3 align="center">Developer Architect</h3>
-<h4 align="center"><i>Jehovah Shalom!<span style="font-size:0.5em;"></span></i></h4>
-<p align="center">
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>README of Solomon</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1 align="center" id="dynamicText">It's Me, Solomon 🌊</h1>
+    <img src="https://www.holopin.io/api/user/board?user=solomonshalom" />
+    <h4 align="center"><i>Want to know the truth? Jesus is KIng!<span style="font-size:0.5em;"></span></i></h4>
+    <p align="center">
+    </p>
 
 <h3 align="left">Just a wall w/ a tad bit of a stack</h3>
 <div style="display: flex">
@@ -92,3 +98,5 @@
       <img
            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
+    </body>
+    </html>
