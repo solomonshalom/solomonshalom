@@ -48,12 +48,6 @@
     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
   />
  <img
-      src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
-  />
- <img
-      src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-  />
- <img
       src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
   />
  <img
@@ -61,12 +55,6 @@
   />
  <img
       src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"
-  />
-  <img
-    src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"
   />
   <img
     src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"
@@ -81,14 +69,6 @@
 <h3 align="left">Don't be shy <3</h3>
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/16328092/solomon-shalom-lijo">
-    <img
-      src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-    />
-  <a href="https://discord.gg/rmSKa2YBKZ">
-    <img
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-    />
     <a href-"https://www.instagram.com/solomon_lijo/">
       <img
            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
